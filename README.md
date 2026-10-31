@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amir-whdan-5b4148261">LinkedIn</a> •
-  <a href="[https://YOUR-PORTFOLIO.vercel.app](https://portfolio-nine-kappa-2yzuxpxhgh.vercel.app/)">Portfolio</a> •
+  <a href="https://portfolio-nine-kappa-2yzuxpxhgh.vercel.app/">Portfolio</a> •
   <a href="mailto:amiirwhdan@gmail.com">Email</a>
 </p>
 
