@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Amir Whdan 👋</h1>
 <h3 align="center">Full-Stack Developer | React.js • Next.js • Angular • Node.js • NestJS • TypeScript</h3>
+<h3 align="center">🎓 ITI 9-Month Professional Diploma (Open Source Track)</h3>
 
 <p align="center">
   Building fast, scalable, and secure web applications from pixel-perfect UIs to production-ready APIs.
@@ -12,12 +13,12 @@
 </p>
 
 ## 👨‍💻 About Me
-- 🎓 Graduate of the ITI 9-Month Professional Diploma (Open Source Track), MERN Stack
+- 🎓 Graduate of the **Information Technology Institute (ITI)** 9-Month Professional Diploma (Open Source Track), MERN Stack
 - 🎓 B.Tech in Computer Science, Modern Academy (Maadi)
 - 💼 Front-End developer with freelance experience, now building full-stack applications end to end
 - ⚡ Experienced in REST APIs, authentication and authorization, real-time apps, and cloud deployment
-- 🔭 Currently working on: **(add your current project here)**
-- 🌱 Currently learning: **(add what you're learning here)**
+- 🔭 Currently working on: project CHAT APP (whatsapp)
+🌱 Currently learning: AI and how to integrate it into web applications (LLM APIs, AI-powered features)
 - 📫 Reach me at: amiirwhdan@gmail.com
 
 ## 🛠️ Tech Stack
