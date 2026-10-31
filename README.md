@@ -2,24 +2,55 @@
 <h3 align="center">Full-Stack Developer | React.js • Next.js • Angular • Node.js • NestJS • TypeScript</h3>
 
 <p align="center">
+  Building fast, scalable, and secure web applications from pixel-perfect UIs to production-ready APIs.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/amir-whdan-5b4148261">LinkedIn</a> •
-  <a href="https://portfolio-nine-kappa-2yzuxpxhgh.vercel.app/">Portfolio</a> •
+  <a href="https://YOUR-PORTFOLIO.vercel.app">Portfolio</a> •
   <a href="mailto:amiirwhdan@gmail.com">Email</a>
 </p>
 
 ## 👨‍💻 About Me
 - 🎓 Graduate of the ITI 9-Month Professional Diploma (Open Source Track), MERN Stack
 - 🎓 B.Tech in Computer Science, Modern Academy (Maadi)
-- 💼 Front-End developer with freelance experience, now building full-stack applications
+- 💼 Front-End developer with freelance experience, now building full-stack applications end to end
+- ⚡ Experienced in REST APIs, authentication and authorization, real-time apps, and cloud deployment
+- 🔭 Currently working on: **(add your current project here)**
+- 🌱 Currently learning: **(add what you're learning here)**
 - 📫 Reach me at: amiirwhdan@gmail.com
 
 ## 🛠️ Tech Stack
+
+### Core
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,redux,tailwind,nodejs,express,nestjs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 </p>
 
-## 📊 GitHub Stats
+### Front-End
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir-017&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-017&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,bootstrap,mui,vite" />
 </p>
+
+### Back-End & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql,mongodb" />
+</p>
+
+### DevOps, Cloud & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,vercel,netlify,git,github,vscode,postman,figma" />
+</p>
+
+### More Skills
+- **Data Fetching & Routing:** TanStack Query (React Query), React Router, Axios
+- **ORM / ODM:** Mongoose
+- **API & Documentation:** REST APIs, Swagger, Postman
+- **Authentication & Security:** JWT, Passport.js, Google OAuth, GitHub OAuth, Clerk, RBAC, Bcrypt
+- **Real-Time Communication:** Socket.IO, WebSockets
+- **UI Libraries:** Material Tailwind, Shadcn/UI, SweetAlert2
+- **File Handling & Media:** Multer, Cloudinary
+- **Internationalization (i18n):** i18next, react-i18next
+- **Deployment Platforms:** Vercel, Netlify, Render, Railway, AWS (EC2)
+- **Design to Code:** Converting Figma designs into responsive UIs
+- **Core CS:** Data Structures & Algorithms, Operating Systems, OOP, Database Management Systems, Software Engineering
