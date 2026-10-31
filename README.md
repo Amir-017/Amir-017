@@ -18,7 +18,7 @@
 - 💼 Front-End developer with freelance experience, now building full-stack applications end to end
 - ⚡ Experienced in REST APIs, authentication and authorization, real-time apps, and cloud deployment
 - 🔭 Currently working on: project CHAT APP (whatsapp)
-🌱 Currently learning: AI and how to integrate it into web applications (LLM APIs, AI-powered features)
+- 🌱 Currently learning: AI and how to integrate it into web applications (LLM APIs, AI-powered features)
 - 📫 Reach me at: amiirwhdan@gmail.com
 
 ## 🛠️ Tech Stack
